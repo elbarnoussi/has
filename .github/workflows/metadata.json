@@ -1,0 +1,6 @@
+{
+  "name": "Bloomiia 3D Landing Page",
+  "description": "An interactive 3D landing page for Bloomiia, a new gen media agency, featuring smooth Three.js animations, a 3D brand universe customizer, and a WordPress Elementor code export tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
